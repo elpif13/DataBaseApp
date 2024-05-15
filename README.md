@@ -1,4 +1,4 @@
-# Contacts Application
+<img width="614" alt="Screenshot 2024-05-15 at 13 32 13" src="https://github.com/elpif13/DataBaseApp/assets/113675207/ec17456f-ceba-47bf-a32e-dda7126efd95"><img width="614" alt="Screenshot 2024-05-15 at 13 32 13" src="https://github.com/elpif13/DataBaseApp/assets/113675207/ec17456f-ceba-47bf-a32e-dda7126efd95"><img width="620" alt="Screenshot 2024-05-15 at 13 31 12" src="https://github.com/elpif13/DataBaseApp/assets/113675207/47adc643-d275-42f1-8461-7a2e4d2ce023"><img width="620" alt="Screenshot 2024-05-15 at 13 31 12" src="https://github.com/elpif13/DataBaseApp/assets/113675207/47adc643-d275-42f1-8461-7a2e4d2ce023"># Contacts Application
 
 This is a simple contact management application. Users can add, edit, and delete basic contact information such as name, email, and phone number. The application is developed using Python with SQLite database.
 
@@ -15,6 +15,8 @@ To run the application, you need the following software installed:
 
 # Pictures
 
+<img width="616" alt="Screenshot 2024-05-15 at 13 28 43" src="https://github.com/elpif13/DataBaseApp/assets/113675207/8f7257e4-7530-4dd2-87a0-fb27a4c001fb">
+<img width="616" alt="Screenshot 2024-05-15 at 13 28 43" src="https://github.com/elpif13/DataBaseApp/assets/113675207/8f7257e4-7530-4dd2-87a0-fb27a4c001fb">
+<img width="614" alt="Screenshot 2024-05-15 at 13 32 13" src="https://github.com/elpif13/DataBaseApp/assets/113675207/ccc393c4-da44-4770-8943-6937dcaf4fa0">
+<img width="614" alt="Screenshot 2024-05-15 at 13 32 13" src="https://github.com/elpif13/DataBaseApp/assets/113675207/ccc393c4-da44-4770-8943-6937dcaf4fa0">
 
-![Uploading Screenshot 2024-05-15 at 13.31.12.png…]()
-![Uploading Screenshot 2024-05-15 at 13.32.13.png…]()
