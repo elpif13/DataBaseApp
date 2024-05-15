@@ -12,3 +12,9 @@ To run the application, you need the following software installed:
 - Python 3.x
 - SQLite
 
+
+# Pictures
+
+
+![Uploading Screenshot 2024-05-15 at 13.31.12.png…]()
+![Uploading Screenshot 2024-05-15 at 13.32.13.png…]()
