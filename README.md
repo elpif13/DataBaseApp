@@ -9,6 +9,6 @@ These instructions will get you a copy of the project up and running on your loc
 # Prerequisites
 To run the application, you need the following software installed:
 
-Python 3.x
-SQLite
+- Python 3.x
+- SQLite
 
